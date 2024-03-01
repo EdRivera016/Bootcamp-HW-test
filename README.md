@@ -1,3 +1,5 @@
+used https://www.w3schools.com/html/html5_semantic_elements.asp for semantic html guide
+
 User Story
 
 AS A marketing agency
