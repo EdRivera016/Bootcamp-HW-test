@@ -1,4 +1,4 @@
-used https://www.w3schools.com/html/html5_semantic_elements.asp for semantic html guide
+used https://www.w3schools.com/html/html5_semantic_elements.asp for semantic html elements guide
 
 User Story
 
