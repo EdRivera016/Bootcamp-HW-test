@@ -37,10 +37,11 @@ header {
 header h1 {
     display: inline-block;
     font-size: 48px;
+    color: white
 }
 
-header h1, .seo{
-color: #d9dcd6
+header h1 .seo {
+color: #d9dec3
 }
 
 header nav {
