@@ -1,23 +1,31 @@
-used https://www.w3schools.com/html/html5_semantic_elements.asp for semantic html elements guide
+# Horiseon
+## Project Description
+Project Horiseon is a coding refactor for adding accessibility sandard like HTML elements and Alt attributes to improve optimization for search engines.
 
-User Story
+## Deployed Webiste Page
+* [Screenshot Page](./assets/images/deployed%20page.png)
+* [Deployed Page]() /* need to add git page*/
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-Acceptance Criteria
+## Comments
+* Added comments to both HTML and CSS.
+* 
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+
+
+
+
+
+
+
+
+responsibility to include a note in the README section of your repo specifying code source and its location within your repo.
+
+
+
+
+
+References and guides utilized
+used https://www.w3schools.com/html/html5_semantic_elements.asp 
 
 mock up
 ![image](https://github.com/EdRivera016/Horiseon-Accessibility/assets/160804229/389b6c06-935a-4615-8cc4-571165ab9543)
